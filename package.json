@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "comp2156 lab exercise",
   "main": "index.js",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -33,6 +34,5 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-  
   
 }
